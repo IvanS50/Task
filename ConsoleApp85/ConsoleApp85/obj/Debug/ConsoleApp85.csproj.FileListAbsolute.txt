@@ -1,0 +1,8 @@
+C:\Users\User.VDNH-C1-105-3\source\repos\ConsoleApp85\ConsoleApp85\bin\Debug\ConsoleApp85.exe.config
+C:\Users\User.VDNH-C1-105-3\source\repos\ConsoleApp85\ConsoleApp85\bin\Debug\ConsoleApp85.exe
+C:\Users\User.VDNH-C1-105-3\source\repos\ConsoleApp85\ConsoleApp85\bin\Debug\ConsoleApp85.pdb
+C:\Users\User.VDNH-C1-105-3\source\repos\ConsoleApp85\ConsoleApp85\obj\Debug\ConsoleApp85.csproj.AssemblyReference.cache
+C:\Users\User.VDNH-C1-105-3\source\repos\ConsoleApp85\ConsoleApp85\obj\Debug\ConsoleApp85.csproj.SuggestedBindingRedirects.cache
+C:\Users\User.VDNH-C1-105-3\source\repos\ConsoleApp85\ConsoleApp85\obj\Debug\ConsoleApp85.csproj.CoreCompileInputs.cache
+C:\Users\User.VDNH-C1-105-3\source\repos\ConsoleApp85\ConsoleApp85\obj\Debug\ConsoleApp85.exe
+C:\Users\User.VDNH-C1-105-3\source\repos\ConsoleApp85\ConsoleApp85\obj\Debug\ConsoleApp85.pdb
